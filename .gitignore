@@ -1,0 +1,13 @@
+# .gitignore file
+
+# Ignore the file with environment variables
+.env
+
+# Ignore the file that tracks sent projects
+sent_projects.txt
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.env
